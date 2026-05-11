@@ -1,3 +1,5 @@
+# Moved to https://github.com/Gingkoleaves/TJ_CompileTheory.git, compress with Parser
+
 # My_Compile — Compiler Theory Course Design
 
 A complete, from-scratch implementation of a small compiler in Python,
